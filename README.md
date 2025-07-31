@@ -127,12 +127,24 @@ try IERC20Metadata(order.tokenToSell).symbol() returns (string memory symbol) {
 
 This ensures meaningful output even if `symbol()` fails.
 
+
+## Beatland Festival Protocol Audit — Codehawks
+
+- **Dates:** July 15–22, 2025  
+- **Scope:** 283 nSLOC  
+- **Role:** Independent Auditor  
+- **Rank:** Top 17 globally  
+- **Contest:** [Beatland Festival Codehawks Page](https://codehawks.cyfrin.io/c/2025-07-beatland-festival)
+-  **Submitted Full Reports:**
+ - [High](https://codehawks.cyfrin.io/c/2025-07-beatland-festival/s/231)
+ - [Medium](https://codehawks.cyfrin.io/c/2025-07-beatland-festival/s/26)
+   
 ---
 
 ### Platform Vulnerabilities — Cyfrin Codehawks
 
 * Repored a vulnerability in web platform for Codehawks
-  [Acknowledged by Patrick Collions SIr](https://x.com/Ravenzbb/status/1946099361525710992)
+  [Acknowledged by Patrick Collions Sir](https://x.com/Ravenzbb/status/1946099361525710992)
   
 Disclosed responsibly during live contests.
 
