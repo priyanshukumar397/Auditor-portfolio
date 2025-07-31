@@ -8,6 +8,13 @@ Smart Contract Auditor | Application Security Researcher
 [Hackenproof](https://hackenproof.com/hackers/5hax) |
 [Email](mailto:231b145@juetguna.in) 
 
+## Findings
+
+| Protocol Name       | Platform   | Total Bugs Reported | High | Med | Low |
+|---------------------|------------|---------------------|------|-----|-----|
+| OrderBook           | Codehawks  | 2                   | 1    | 0   | 1   |
+| Beatland Festival   | Codehawks  | 4                   | 1    | 1   | 2   |
+| **Totals**          |            | **6**               | **2**|**1**|**3**|
 ---
 
 ## Smart Contract Work
