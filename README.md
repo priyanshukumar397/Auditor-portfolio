@@ -14,7 +14,8 @@ Smart Contract Auditor | Application Security Researcher
 |---------------------|------------|---------------------|------|-----|-----|
 | OrderBook           | Codehawks  | 2                   | 1    | 0   | 1   |
 | Beatland Festival   | Codehawks  | 4                   | 1    | 1   | 2   |
-| **Totals**          |            | **6**               | **2**|**1**|**3**|
+| Last Man Standing   | Codehawks  | 2                   | 0    | 2   | 0   |
+| **Totals**          | Codehawks  | **8**               | **2**|**3**|**3**|
 ---
 
 ## Smart Contract Work
@@ -138,7 +139,13 @@ This ensures meaningful output even if `symbol()` fails.
 -  **Submitted Full Reports:**
  - [High](https://codehawks.cyfrin.io/c/2025-07-beatland-festival/s/231)
  - [Medium](https://codehawks.cyfrin.io/c/2025-07-beatland-festival/s/26)
-   
+
+## Last Man Standing Protocol Audit - Codehawks
+- **Rank:** Top 92 globally  
+- **Contest:** ([Last Man Standing Page](https://codehawks.cyfrin.io/c/2025-07-last-man-standing))
+-  **Submitted Full Reports:**
+ - [Medium](https://codehawks.cyfrin.io/c/2025-07-last-man-standing/s/275)
+ - [Medium](https://codehawks.cyfrin.io/c/2025-07-last-man-standing/s/276)
 ---
 
 ### Platform Vulnerabilities — Cyfrin Codehawks
