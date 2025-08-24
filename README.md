@@ -152,9 +152,7 @@ This ensures meaningful output even if `symbol()` fails.
 
 * Repored a vulnerability in web platform for Codehawks
   [Acknowledged by Patrick Collions Sir](https://x.com/Ravenzbb/status/1946099361525710992)
-  
-Disclosed responsibly during live contests.
-
+* Disclosed responsibly during live contests.
 ---
 
 ### Leaderboard
@@ -166,6 +164,7 @@ Disclosed responsibly during live contests.
 ### Certifications
 
 * Cyfrin Web3 [Wallet Security Mastery Course](https://profiles.cyfrin.io/u/ishwar/achievements/web3-wallet-security-basics)
+* BlockChain Basics Course from [Cyfrin Updraft](https://x.com/Ravenzbb/status/1959620066691203111)
 ---
 
 ## Application Security Work
