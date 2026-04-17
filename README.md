@@ -160,7 +160,12 @@ This ensures meaningful output even if `symbol()` fails.
 * Ranked [23rd globally](https://codehawks.cyfrin.io/leaderboard?page=3&r=1-month&sc=reward&sj=reward&t=contests) on Codehawks amongst Top 100 contest category for July 2025
 
 ---
+### Work-Experience
 
+* Interned at Kann Audits (2-Weeks::Solidity)
+* Intern at Chain Defenders 
+
+---
 ### Certifications
 
 * Cyfrin Web3 [Wallet Security Mastery Course](https://profiles.cyfrin.io/u/ishwar/achievements/web3-wallet-security-basics)
