@@ -163,7 +163,8 @@ This ensures meaningful output even if `symbol()` fails.
 ### Work-Experience
 
 * Interned at Kann Audits (2-Weeks::Solidity)
-* Intern at Chain Defenders 
+* Intern at Chain Defenders
+* 1 audit Completed with Pashov Audit Group
 
 ---
 ### Certifications
