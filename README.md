@@ -164,7 +164,7 @@ This ensures meaningful output even if `symbol()` fails.
 
 * Interned at Kann Audits (2-Weeks::Solidity)
 * Intern at Chain Defenders
-* 1 audit Completed with Pashov Audit Group
+* 1 audit Completed with Pashov Audit Group & Phage Security Firm
 
 ---
 ### Certifications
